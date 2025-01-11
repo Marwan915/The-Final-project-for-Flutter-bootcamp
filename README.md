@@ -5,8 +5,9 @@
 ---
 
 ## **Main Screen**
-![Main Screen](<img width="218" alt="Screenshot 2025-01-11 133624" src="https://github.com/user-attachments/assets/3e911ff2-3075-427a-8e17-6a44b8b442a1" />
-)
+![Main Screen]
+<img width="218" alt="Screenshot 2025-01-11 133624" src="https://github.com/user-attachments/assets/3e911ff2-3075-427a-8e17-6a44b8b442a1" />
+
 
 - The main screen showcases an iconic Saudi Arabian landmark.
 - It provides two options for users:
