@@ -4,6 +4,7 @@
 
 ---
 
+
 ## **Main Screen**
 <img width="218" alt="Screenshot 2025-01-11 133624" src="https://github.com/user-attachments/assets/3e911ff2-3075-427a-8e17-6a44b8b442a1" />
 
@@ -94,6 +95,19 @@
 
 - Displays the user's email used during login or sign-up.
 - Includes a **Log Out** button that redirects the user to the main screen.
+
+---
+
+
+## **Database table**
+<img width="1268" alt="subabaceTesting" src="https://github.com/user-attachments/assets/af606031-5fd1-4108-8571-faeea276628a" />
+
+- The `users` table contains 
+  - `id`: Unique identifier for each user.
+  - `email`: User email address.
+  - `encrypted_password`: Encrypted user password.
+  - etc...
+- The schema is managed through **Supabase**.
 
 ---
 
