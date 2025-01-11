@@ -5,7 +5,6 @@
 ---
 
 ## **Main Screen**
-![Main Screen]
 <img width="218" alt="Screenshot 2025-01-11 133624" src="https://github.com/user-attachments/assets/3e911ff2-3075-427a-8e17-6a44b8b442a1" />
 
 
@@ -17,8 +16,8 @@
 ---
 
 ## **Sign-Up Screen**
-![Sign-Up Screen](<img width="213" alt="Screenshot 2025-01-11 133654" src="https://github.com/user-attachments/assets/5ae02f2b-72e8-4006-9bc1-4a11081ad78c" />
-)
+<img width="213" alt="Screenshot 2025-01-11 133654" src="https://github.com/user-attachments/assets/5ae02f2b-72e8-4006-9bc1-4a11081ad78c" />
+
 
 - This screen allows users to create a new account.
 - Includes input fields such as email, and password.
@@ -27,8 +26,8 @@
 ---
 
 ## **Log-In Screen**
-![Log-In Screen](<img width="221" alt="Screenshot 2025-01-11 133747" src="https://github.com/user-attachments/assets/9166f1ba-acd5-4be7-a5dc-f28067095484" />
-)
+<img width="221" alt="Screenshot 2025-01-11 133747" src="https://github.com/user-attachments/assets/9166f1ba-acd5-4be7-a5dc-f28067095484" />
+
 
 - This screen allows users to log in with their email and password.
 - Successful login directs the user to the main homepage.
@@ -36,9 +35,9 @@
 ---
 
 ## **Home Page**
-![Home Page](<img width="223" alt="Screenshot 2025-01-11 132835" src="https://github.com/user-attachments/assets/1fa90da6-70ee-40b9-8460-72d31eba2247" />
-) ![City Switcher](<img width="127" alt="switch button my app" src="https://github.com/user-attachments/assets/2fef6279-377e-43fc-aa82-a8611b599e19" />
-)
+<img width="223" alt="Screenshot 2025-01-11 132835" src="https://github.com/user-attachments/assets/1fa90da6-70ee-40b9-8460-72d31eba2247" />
+ ![City Switcher]
+ <img width="127" alt="switch button my app" src="https://github.com/user-attachments/assets/2fef6279-377e-43fc-aa82-a8611b599e19" />
 
 - Displays a list of the best hotels, restaurants and tourist attraction in the selected city.
 - **City Switcher**: Allows users to change the city (e.g., Riyadh, Jeddah) to explore different locations.
@@ -48,8 +47,7 @@
 ---
 
 ## **Jeddah Listings**
-![Jeddah Listings](<img width="218" alt="Screenshot 2025-01-11 133027" src="https://github.com/user-attachments/assets/3026892e-320a-447d-b511-fd3f4154a9f4" />
-)
+<img width="218" alt="Screenshot 2025-01-11 133027" src="https://github.com/user-attachments/assets/3026892e-320a-447d-b511-fd3f4154a9f4" />
 
 - A specific example of the listings when Jeddah is selected as the city.
 - Displays various popular tourist spots, hotels, and restaurants in Jeddah.
@@ -57,8 +55,7 @@
 ---
 
 ## **Details Page**
-![Details Page](<img width="217" alt="Screenshot 2025-01-11 132931" src="https://github.com/user-attachments/assets/df2bb472-7c57-4658-baf1-3f623129665c" />
-)
+<img width="217" alt="Screenshot 2025-01-11 132931" src="https://github.com/user-attachments/assets/df2bb472-7c57-4658-baf1-3f623129665c" />
 
 - This page provides detailed information about a selected hotel, restaurant, or tourist attraction.
 - Includes:
@@ -73,8 +70,7 @@
 ---
 
 ## **Map Screen**
-![Map Screen](<img width="220" alt="Screenshot 2025-01-11 133103" src="https://github.com/user-attachments/assets/a27e2fa0-5a37-4cb0-ae4d-7bfa7053171a" />
-)
+<img width="220" alt="Screenshot 2025-01-11 133103" src="https://github.com/user-attachments/assets/a27e2fa0-5a37-4cb0-ae4d-7bfa7053171a" />
 
 - Provides an **interactive map** showing different locations within the city.
 - Developed using the **flutter_map: ^4.0.0** library and the **latlong2** package for handling coordinates.
@@ -83,8 +79,7 @@
 ---
 
 ## **Chat Screen**
-![Chat Screen](<img width="221" alt="Screenshot 2025-01-11 133233" src="https://github.com/user-attachments/assets/2d8f5325-0ce6-47a2-88e0-ee7103687321" />
-)
+<img width="221" alt="Screenshot 2025-01-11 133233" src="https://github.com/user-attachments/assets/2d8f5325-0ce6-47a2-88e0-ee7103687321" />
 
 - Features a **chat interface powered by ChatGPT API**.
 - Enables users to:
@@ -95,8 +90,7 @@
 ---
 
 ## **Profile Screen**
-![Profile Screen](<img width="218" alt="Screenshot 2025-01-11 133317" src="https://github.com/user-attachments/assets/9400d3ef-bf12-495d-b26a-91a062ecf680" />
-)
+<img width="218" alt="Screenshot 2025-01-11 133317" src="https://github.com/user-attachments/assets/9400d3ef-bf12-495d-b26a-91a062ecf680" />
 
 - Displays the user's email used during login or sign-up.
 - Includes a **Log Out** button that redirects the user to the main screen.
